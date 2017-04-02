@@ -440,8 +440,10 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Date_Time_Picker</string>
-    <string name="choose">選取日期</string>
-    <string name="data">你選的的日期:</string>
+    <string name="choose1">選取日期</string>
+    <string name="choose2">選取時間</string>
+    <string name="data1">你選的的日期:</string>
+    <string name="data2">你選的的時間:</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
